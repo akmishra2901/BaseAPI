@@ -1,0 +1,5 @@
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Model\bin\Debug\BaseAPI.Model.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Model\bin\Debug\BaseAPI.Model.pdb
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Model\obj\Debug\BaseAPI.Model.csproj.CoreCompileInputs.cache
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Model\obj\Debug\BaseAPI.Model.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Model\obj\Debug\BaseAPI.Model.pdb

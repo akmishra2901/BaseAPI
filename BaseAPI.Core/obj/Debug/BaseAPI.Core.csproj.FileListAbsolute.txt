@@ -1,0 +1,9 @@
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\bin\Debug\BaseAPI.Core.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\bin\Debug\BaseAPI.Core.pdb
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\obj\Debug\BaseAPI.Core.csprojAssemblyReference.cache
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\obj\Debug\BaseAPI.Core.csproj.CoreCompileInputs.cache
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\obj\Debug\BaseAPI.Core.csproj.CopyComplete
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\obj\Debug\BaseAPI.Core.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.Core\obj\Debug\BaseAPI.Core.pdb

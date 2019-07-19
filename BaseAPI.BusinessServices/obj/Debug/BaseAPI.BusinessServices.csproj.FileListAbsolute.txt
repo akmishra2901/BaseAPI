@@ -1,0 +1,17 @@
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\bin\Debug\BaseAPI.BusinessServices.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\bin\Debug\BaseAPI.BusinessServices.pdb
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.csproj.CoreCompileInputs.cache
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.csproj.CopyComplete
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.pdb
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\bin\Debug\BaseAPI.BusinessServices.dll
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\bin\Debug\BaseAPI.BusinessServices.pdb
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.csproj.CopyComplete
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.dll
+C:\Users\user\Source\Repos\BaseAPI\BaseAPI.BusinessServices\obj\Debug\BaseAPI.BusinessServices.pdb

@@ -1,0 +1,5 @@
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.DataAccess\obj\Debug\BaseAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.DataAccess\bin\Debug\BaseAPI.DataAccess.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.DataAccess\bin\Debug\BaseAPI.DataAccess.pdb
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.DataAccess\obj\Debug\BaseAPI.DataAccess.dll
+D:\Projects\UnderWorking\AngulaGenericPanelWithAPI\API_Base\BaseAPI\BaseAPI.DataAccess\obj\Debug\BaseAPI.DataAccess.pdb
